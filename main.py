@@ -1,1 +1,3 @@
-#WRITE YOUR CODE IN THIS FILE
+def echo():
+    return("hello", 5)
+echo("hello")
